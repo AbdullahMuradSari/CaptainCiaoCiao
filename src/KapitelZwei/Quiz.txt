@@ -1,0 +1,7 @@
+Aufgabe 2.2.2 Quiz: Wertebereiche einhalten
+
+Was ist das Ergebnis des Ausdrucks 1000000 * 1000000? Fällt etwas auf? Warum
+entsteht dieses Ergebnis?
+
+Antwort: Das Ergebnis lautet: -727379968 und das falsche Ergebnis kommt daher, dass
+         Java standardmäßig int benutzt und int kann nur zehnstellige Zahlen darstellen.
