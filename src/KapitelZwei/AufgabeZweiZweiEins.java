@@ -1,5 +1,8 @@
 package KapitelZwei;
 
+/**
+ * @author Abdullah Murad Sari
+ */
 public class AufgabeZweiZweiEins {
     /**
      * Diese Methode gibt einen SVG Code für einen Kreis mit bestimmten Angaben aus

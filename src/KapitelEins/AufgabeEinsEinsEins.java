@@ -1,5 +1,8 @@
 package KapitelEins;
 
+/**
+ * @author Abdullah Murad Sari
+ */
 public class AufgabeEinsEinsEins {
     /**
      * Diese Methode gibt "Aye Captain!" aus
