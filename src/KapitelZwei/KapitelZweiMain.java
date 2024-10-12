@@ -1,5 +1,8 @@
 package KapitelZwei;
 
+/**
+ * @author Abdullah Murad Sari
+ */
 public class KapitelZweiMain {
     public static void main(String[] args) {
         /**
